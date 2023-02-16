@@ -1,0 +1,31 @@
+//pass present future classes
+//MAJOR TASK
+//1. defining the current hour,properly displaying hours throughout the day
+//dayjs for current hour and date
+//var currentHour dayjs
+//easier way of ID
+//each
+var currentHour //compare the current hour of individ blovks
+var blockHour
+//each element that has a class con jquery-each
+///nest these functions
+$('.time-block').each(function(){
+    if(blockHour < currentHour) {
+
+    }
+} else if (blockHour===currentHour){
+
+}else {
+}
+///focus on this bc it will save you a massive amount of time
+
+
+//conditionlly apply ppf classes con
+//if statements of ppf nested in to a timer
+//2. allow the user to save notes within individiual timeblocks,have the data save to local storage and utilize local storage each time the page loads to have persistent data
+buttonid.eventListener
+//.clickon
+//jquery .on method
+//before you nest the messages but .onmethod
+
+//3.Display the current date on the header of the page
